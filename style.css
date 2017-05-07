@@ -1,0 +1,39 @@
+.button{
+	float: right;
+	padding: 5px;
+}
+.menuButton{
+	padding: 20px
+}
+.title{
+	font-size: 50px;
+	
+}
+.body{
+	background-color: lightblue;
+}
+.selected{
+	font-size: 25px;
+	
+}
+.verticalLine {
+	border-left: thick solid #ff0000;
+}
+#picture{
+	width:40%;
+	float:left;
+	
+	
+}
+.left_image{
+	width: 100%;
+	height: 100%;
+}
+#text{
+	float:left;
+	width:60%;
+}
+#top_row{
+	padding-bottom: 20px;
+}
+
